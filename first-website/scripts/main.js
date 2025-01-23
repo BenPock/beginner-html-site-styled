@@ -1,20 +1,20 @@
-const myHeading = document.querySelector("h1");
+let myHeading = document.querySelector("h1");
 myHeading.textContent = "Hello world!";
-/*
+
 let iceCream = "chocolate";
 if (iceCream === "chocolate") {
   alert("Yay, I love chocolate ice cream!");
 } else {
   alert("Awwww, but chocolate is my favorite…");
 }
-*/
 
-/*
+
+
 document.querySelector("html").addEventListener("click", () => {
     alert("Ouch! Stop poking me!");
   });
-*/
-/*
+
+
   const myImage = document.querySelector("img");
 
 myImage.addEventListener("click", () => {
@@ -26,10 +26,10 @@ myImage.addEventListener("click", () => {
   }
     
 });
-*/
+
 
 let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+myHeading = document.querySelector("h1");
 function setUserName() {
     const myName = prompt("Please enter your name.");
     localStorage.setItem("name", myName);
