@@ -8,17 +8,13 @@ if (iceCream === "chocolate") {
   alert("Awwww, but chocolate is my favorite…");
 }
 */
-/*
-multiply(4, 7);
-multiply(20, 20);
-multiply(0.5, 3);
-*/
+
 /*
 document.querySelector("html").addEventListener("click", () => {
     alert("Ouch! Stop poking me!");
   });
 */
-/*
+
   const myImage = document.querySelector("img");
 
 myImage.addEventListener("click", () => {
@@ -30,8 +26,8 @@ myImage.addEventListener("click", () => {
   }
     
 });
-*/
 
+/*
 let myButton = document.querySelector("button");
 let myHeading = document.querySelector("h1");
 function setUserName() {
@@ -58,3 +54,4 @@ function setUserName() {
     }
   }
 
+*/
