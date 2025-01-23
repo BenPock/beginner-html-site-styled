@@ -14,7 +14,7 @@ document.querySelector("html").addEventListener("click", () => {
     alert("Ouch! Stop poking me!");
   });
 */
-
+/*
   const myImage = document.querySelector("img");
 
 myImage.addEventListener("click", () => {
@@ -26,8 +26,8 @@ myImage.addEventListener("click", () => {
   }
     
 });
+*/
 
-/*
 let myButton = document.querySelector("button");
 let myHeading = document.querySelector("h1");
 function setUserName() {
@@ -54,4 +54,3 @@ function setUserName() {
     }
   }
 
-*/
